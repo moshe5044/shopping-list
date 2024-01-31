@@ -1,0 +1,14 @@
+.item {
+    width: 100vw;
+    max-height: 700px;
+    overflow-x: scroll;
+    position: absolute;
+    background-color: aliceblue;
+}
+
+.search-input {
+    display: block;
+    width: 99%;
+    height: 70px;
+    font-size: xx-large;
+}
