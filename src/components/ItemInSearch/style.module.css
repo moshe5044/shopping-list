@@ -1,0 +1,16 @@
+.item {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 100vw;
+    height: 160px;
+    border: 1px solid rgb(192, 190, 190);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.name, .category {
+    font-size: 30px;
+}
+.emoji {
+    font-size: 80px;
+}
