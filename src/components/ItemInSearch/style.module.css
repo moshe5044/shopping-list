@@ -11,6 +11,8 @@
 .name, .category {
     font-size: 30px;
 }
-.emoji {
-    font-size: 80px;
+
+.img-item {
+    width: 100px;
+    height: 80px;
 }
